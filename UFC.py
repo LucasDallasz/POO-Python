@@ -109,7 +109,7 @@ def main():
     """
         [Dúvida]
         Mas e se eu quiser alterar o peso do juiz?
-        1 - A instância juiz está herdando da classe Pessoa.
+        1 - A instância juiz está sendo instanciada da classe Pessoa.
         2 - A classe pessoa não possuí o atributo peso;
         3 - A classe pessoa não está herdando de Lutador, que é onde está o atributo/método.
         
